@@ -13,12 +13,10 @@ To customize a workstation to Free Geek Twin Cities standards:
 
 The Free Geek Twin Cities Customization Tool(fgtcct), written and copyright by Munir Nassar, released under the terms of the [GPLv3](http://www.gnu.org/licenses/gpl.html).
 
-The Free Geek Twin Cities Customization Tool may also download and use adducci, GeekBench and XFce configuration settings. 
+The Free Geek Twin Cities Customization Tool may also download and use [adducci](#adducci), [GeekBench](#GeekBench) and XFce configuration settings. 
 
-<dl>
-<dt>adducci</dt>
-<dd>A simple tool to collect systems inventory and S.M.A.R.T. data. adducci is copyright by the Regents of the University of Minnesota and released under the terms of the GPL.</dd>
+## adducci
+A simple tool to collect systems inventory and S.M.A.R.T. data. adducci is copyright by the Regents of the University of Minnesota and released under the terms of the GPL.
 
-<dt>GeekBench</dt>
-<dd>Geekbench (http://primatelabs.com/geekbench) provides a comprehensive set of benchmarks engineered to quickly and accurately measure processor and memory performance, copyright Primate Labs.</dd>
-</dl>
+## GeekBench
+Geekbench (http://primatelabs.com/geekbench) provides a comprehensive set of benchmarks engineered to quickly and accurately measure processor and memory performance, copyright Primate Labs.
