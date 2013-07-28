@@ -20,5 +20,5 @@ The Free Geek Twin Cities Customization Tool may also download and use adducci, 
 <dd>A simple tool to collect systems inventory and S.M.A.R.T. data. adducci is copyright by the Regents of the University of Minnesota and released under the terms of the GPL.</dd>
 
 <dt>GeekBench</dt>
-</dd>Geekbench (http://primatelabs.com/geekbench) provides a comprehensive set of benchmarks engineered to quickly and accurately measure processor and memory performance, copyright Primate Labs.</dd>
+<dd>Geekbench (http://primatelabs.com/geekbench) provides a comprehensive set of benchmarks engineered to quickly and accurately measure processor and memory performance, copyright Primate Labs.</dd>
 </dl>
